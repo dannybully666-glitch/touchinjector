@@ -3,7 +3,7 @@
     <style name="AppTheme" parent="Theme.MaterialComponents.Light.NoActionBar">
         <item name="colorAccent">@color/colorAccent</item>
         <item name="colorPrimary">@color/colorPrimary</item>
-        <item name="colorPrimaryDark">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="android:windowBackground">@color/window_background_color</item>
         <item name="android:colorBackground">@color/window_background_color</item>
         <item name="android:textViewStyle">@style/TextView</item>
