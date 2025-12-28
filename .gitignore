@@ -1,5 +1,9 @@
 .gradle/
+.gradle-dist/
 build/
+**/build/
+Android/
+Android/sdk/
 local.properties
 *.log
-*.apk
+*.iml
